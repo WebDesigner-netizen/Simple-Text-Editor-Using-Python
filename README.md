@@ -8,5 +8,5 @@ Tkinter is the Python interface to the Tk GUI toolkit shipped with Python.
 
 This project creates a simple text editor with the basic functions.
 
-============ Do not be a Copy-Cat, build on the already created project =================
-=========================================================================================
+Do not be a Copy-Cat, build on the already created project 
+==========================================================
